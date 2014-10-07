@@ -1,0 +1,342 @@
+@import 'variables';
+
+/* Reset
+-----------------------------------------------------------------------------*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+div {
+	position: relative;
+}
+* {
+	box-sizing: border-box;
+}
+
+/* General
+-----------------------------------------------------------------------------*/
+
+img {
+    width: 100%;
+    height: auto;
+    padding-bottom: 1rem;
+}
+
+/* Typography
+-----------------------------------------------------------------------------*/
+html {
+	font-family: $font-body;
+	font-size: 100%;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+h1 {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 2.5rem;
+	line-height: 1;
+	letter-spacing: 2px;
+	color: $color-grey-dark;
+	text-transform: uppercase;
+	margin-bottom: 1.5rem;
+	span {
+		background-image: linear-gradient(to bottom, rgba(0,0,0,0) 50%,
+			                                         $color-green 50%,
+			                                         $color-green 86%,
+			                                         rgba(0,0,0,0) 86%);
+		background-repeat: repeat-x;
+		padding: 0 .15rem;
+	}
+}
+
+h2 {
+	font-style: normal;
+	font-weight: 900;
+	font-size: 2rem;
+	line-height: 1.7;
+	letter-spacing: 2px;
+	color: $color-grey-dark;
+	text-transform: uppercase;
+}
+p {
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1.5;
+	color: $color-grey;
+	font-size: 1.3rem;
+	margin-bottom: 1.5rem;
+}
+a {
+	text-decoration: none;
+	color: $color-green;
+	transition: all 0.2s ease-in-out;
+	&:hover {
+		color: saturate(darken($color-green, 30), 30);
+	}
+}
+blockquote {
+    padding-left: 1em;
+    font-family: "kepler-std-extended-subhead", serif;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 1.5;
+    color: $color-green;
+    font-size: 1.8rem;
+    text-align: center;
+    letter-spacing: .04rem;
+}
+
+/* Nav bar
+-----------------------------------------------------------------------------*/
+
+nav {
+	font-style: normal;
+	font-weight: 700;
+	background-color: $color-grey-dark;
+	font-size: .7rem;
+	letter-spacing: .17rem;
+	li {
+		display: inline-block;
+		text-transform: uppercase;
+		&:last-child {
+			padding-right: 0;
+		}
+	}
+	ul {
+		float: right;
+		@media (max-width: $break-smaller) {
+			float: none;
+			text-align: center;
+		}
+	}
+	a {
+		color: #fff;
+		padding: 1.5rem;
+		display: inline-block;
+		&:hover {
+			color: #61BF7E;
+		}
+		@media (max-width: $break-smaller) {
+			padding: 1.5rem .8rem;
+		}
+	}
+	p {
+		color: #fff;
+	}
+}
+
+
+
+/* Header
+-----------------------------------------------------------------------------*/
+
+header {
+	background-image: url('/images/maw-hero.jpg');
+	background-color: $color-stone;
+	background-size: cover;
+	background-position: 40% center;
+	margin-bottom: 3rem;
+	padding: 5rem 0 4rem;
+	@media (max-width: $break-small) {
+		background-position: 10% center;
+	}
+}
+header h1{
+	color: #fff;
+	font-size: 2.5rem;
+}
+.title {
+	background-color: $color-green; 
+	padding: 0.7rem 1rem;
+	display: inline-block;
+}
+.logo {
+	display: block;
+	max-width: 10rem;
+}
+
+/* Layout
+-----------------------------------------------------------------------------*/
+.container,
+.container-wide {
+	width: 45rem;
+	max-width: 95%;
+	margin: 0 auto;
+	padding: 0 1rem;
+}
+.container-wide {
+	width: 64rem;
+}
+.group:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.center {
+    text-align: center;
+}
+.row {
+    margin-left: -3rem;
+    display: block;
+}
+section {
+	margin-bottom: 3rem;
+}
+body {
+	background-color: $color-stone;
+}
+.box {
+	background-color: $color-grey;
+	padding: 2.2rem 1.6rem;
+	color: #fff;
+	font-size: 1.5rem;
+	h1 {
+		color: #fff;
+	}
+}
+
+// Forms
+// ----------------------------------------------------------------------------
+
+.tweet-machine-sentence {
+	line-height: 1.7;
+}
+.button {
+	display: inline-block;
+	background-color: $color-red;
+	padding: 1rem;
+	font-size: 1.2rem;
+	color: #fff;
+	border-radius: 0.25rem;
+	&:hover {
+		color: #fff;
+		background-color: saturate(darken($color-red, 20), 20);
+		transition: all 0.2s ease-in-out;
+	}
+}
+.select {
+    position: relative;
+    display: inline-block;
+    color: $color-grey;
+    @media (max-width: $break-medium) {
+    	width: 100%;
+    }
+    select {
+        font-family: $font-body;
+        font-size: 1rem;
+        display: inline-block;
+        margin: .05rem 0 1.2rem;
+        padding: .4rem 2.21rem .4rem 1rem;
+        line-height: 1.5;
+        color: $color-grey;
+        background-color: $color-stone-darker;
+        border: 0;
+        border-radius: 0;
+        cursor: pointer;
+        outline: 0;
+        transition: all 0.2s ease-in-out;
+        box-shadow: 0 0 0 .1rem $color-stone-darker;
+        appearance: none;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        &:focus:-moz-focusring {
+            color: transparent;
+            text-shadow: 0 0 0 #000;
+        }
+        &:focus {
+            box-shadow: 0 0 0 .15rem $color-green;
+        }
+        &:active {
+            color: #fff;
+            background-color: $color-green;
+        }
+        &::-ms-expand {
+            display: none;
+        }
+        @media (max-width: $break-medium) {
+    		width: 100%;
+    	}
+    }
+    &:after {
+        position: absolute;
+        top: 50%;
+        right: 1rem;
+        display: inline-block;
+        content: "";
+        width: 0;
+        height: 0;
+        margin-top: -.65rem;
+        pointer-events: none;
+        border-top: .35rem solid;
+        border-right: .35rem solid transparent;
+        border-bottom: .35rem solid transparent;
+        border-left: .35rem solid transparent;
+    }
+}
+@-moz-document url-prefix() {
+    .select select {
+        text-indent: 0.01px;
+        text-overflow: '';
+        padding-right: 1rem;
+    }
+    .select option {
+        background-color: white;
+    }
+}
+
+/* Footer
+-----------------------------------------------------------------------------*/
+
+footer {
+	background-color: $color-grey-dark;
+	letter-spacing: .17rem;
+	padding: 3rem;
+	@media (max-width: $break-small) {
+		background-position: 10% center;
+	}
+}
+footer p {
+	color: #fff;
+	font-size: 1rem;
+}
