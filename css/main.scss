@@ -203,6 +203,11 @@ header h1{
 	max-width: 95%;
 	margin: 0 auto;
 	padding: 0 1rem;
+	@media (max-width: $break-smaller) {
+		.container,
+		.container-wide {
+			width: 90%;
+	}
 }
 .container-wide {
 	width: 64rem;
