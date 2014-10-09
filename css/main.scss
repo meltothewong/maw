@@ -105,6 +105,8 @@ p {
 	color: $color-grey;
 	font-size: 1.3rem;
 	margin-bottom: 1.5rem;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
 a {
 	text-decoration: none;
@@ -115,7 +117,6 @@ a {
 	}
 }
 blockquote {
-    padding-left: 1em;
     font-family: "kepler-std-extended-subhead", serif;
     font-style: italic;
     font-weight: 400;
@@ -141,6 +142,14 @@ nav {
 		&:last-child {
 			padding-right: 0;
 		}
+		@media (max-width: $break-smaller) {
+			&:first-child a {
+				padding-left: 0;
+			}
+			&:last-child a {
+				padding-right: 0;
+			}
+		}
 	}
 	ul {
 		float: right;
@@ -157,7 +166,7 @@ nav {
 			color: #61BF7E;
 		}
 		@media (max-width: $break-smaller) {
-			padding: 1.5rem .8rem;
+			padding: 1.5rem .5rem;
 		}
 	}
 	p {
@@ -202,12 +211,7 @@ header h1{
 	width: 45rem;
 	max-width: 95%;
 	margin: 0 auto;
-	padding: 0 1rem;
-	@media (max-width: $break-smaller) {
-		.container,
-		.container-wide {
-			width: 90%;
-	}
+	padding: 0 .5rem;
 }
 .container-wide {
 	width: 64rem;
@@ -249,14 +253,14 @@ body {
 }
 .button {
 	display: inline-block;
-	background-color: $color-red;
+	background-color: $color-pink;
 	padding: 1rem;
 	font-size: 1.2rem;
 	color: #fff;
 	border-radius: 0.25rem;
 	&:hover {
 		color: #fff;
-		background-color: saturate(darken($color-red, 20), 20);
+		background-color: saturate(darken($color-pink, 20), 20);
 		transition: all 0.2s ease-in-out;
 	}
 }
@@ -328,4 +332,17 @@ body {
     .select option {
         background-color: white;
     }
+}
+
+/* Footer
+-----------------------------------------------------------------------------*/
+
+footer {
+	background-color: $color-grey-dark;
+	letter-spacing: .17rem;
+	padding-top: 1.5rem;
+}
+footer p {
+	color: #fff;
+	font-size: .8rem;
 }

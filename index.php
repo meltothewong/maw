@@ -14,7 +14,7 @@
                 <ul>
                     <li><a href="#initiative">Initiative</a></li>
                     <li><a href="#pledge">Pledge</a></li>
-                  <li><a href="#resources">Resources</a></li>
+                    <li><a href="#resources">Resources</a></li>
                 </ul>
             </div>
         </nav>
@@ -71,22 +71,26 @@
                 <section class="tweet-machine center box">
                     <div class="tweet-machine-sentence">
                         <h1>Make your pledge</h1>
-                        I pledge not to make &nbsp; 
+                        I pledge not to make&nbsp; 
                         <div class="select">
                             <select class="pledge-object">
                                 <option value="tchotchkes">choose one</option>
                                 <option value="keychains">keychains</option>
-                                <option value="printed tees">printed tees</option>
+                                <option value="paperweights">paperweights</option>
                                 <option value="stressballs">stressballs</option>
+                                <option value="paddle ball sets">paddle ball sets</option>
+                                <option value="action figures">action figures</option>
                             </select>
                         </div>
-                        &nbsp; and instead I will &nbsp;
+                        &nbsp;and instead I will&nbsp;
                         <div class="select">
                             <select class="pledge-action">
-                                <option value="save the environment">choose one</option>
+                                <option value="tell people about marketersagainstwaste.com">choose one</option>
                                 <option value="hug a dog">hug a dog</option>
-                                <option value="high five a stranger">high five a stranger</option>
-                                <option value="donate to charity">donate to charity</option>
+                                <option value="high five a stranger">give away high fives</option>
+                                <option value="make something useful">make something useful</option>
+                                <option value="offer cookies and milk">offer cookies and milk</option>
+                                <option value="draw on people's faces with a marker">draw on people's faces with a marker</option>
                             </select>
                         </div>
                     </div>
@@ -98,12 +102,12 @@
                 </section>
             </div><a id="resources"></a>
         </div>
-        <div class="container group">
-            <section>
+        <footer>
+            <div class="container-wide group">
                 <p>Contact us for more information or to get your company's logo on the website at 
                 <a href="mailto:info@marketersagainstwaste.com?Subject=Marketers Against Waste Query%20" target="_blank">info@marketersagainstwaste.com</a></p>
-            </section>
-        </div>
+            </div>
+        </footer>
         <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
         <script src="/js/build/production.js"></script>
     </body>
