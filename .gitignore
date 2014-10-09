@@ -2,4 +2,6 @@ css/build/
 js/build/
 node_modules/
 .DS_Store
+*.pyc
+.sass-cache/
 
