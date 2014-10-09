@@ -332,11 +332,11 @@ footer {
 	background-color: $color-grey-dark;
 	letter-spacing: .17rem;
 	padding: 3rem;
-	@media (max-width: $break-small) {
+	@media (max-width: $break-smaller) {
 		background-position: 10% center;
 	}
 }
 footer p {
 	color: #fff;
-	font-size: 1rem;
+	font-size: .6rem;
 }
