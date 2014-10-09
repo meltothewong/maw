@@ -98,12 +98,12 @@
                 </section>
             </div><a id="resources"></a>
         </div>
-        <footer>
-            <div class="container">
+        <div class="container group">
+            <section>
                 <p>Contact us for more information or to get your company's logo on the website at 
                 <a href="mailto:info@marketersagainstwaste.com?Subject=Marketers Against Waste Query%20" target="_blank">info@marketersagainstwaste.com</a></p>
-            </div>
-        </footer>
+            </section>
+        </div>
         <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
         <script src="/js/build/production.js"></script>
     </body>

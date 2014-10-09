@@ -329,19 +329,3 @@ body {
         background-color: white;
     }
 }
-
-/* Footer
------------------------------------------------------------------------------*/
-
-footer {
-	background-color: $color-grey-dark;
-	letter-spacing: .17rem;
-	padding: 3rem;
-	@media (max-width: $break-smaller) {
-		background-position: 10% center;
-	}
-}
-footer p {
-	color: #fff;
-	font-size: .6rem;
-}
