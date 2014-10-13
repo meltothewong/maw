@@ -185,7 +185,7 @@ header {
 	background-size: cover;
 	background-position: 40% center;
 	margin-bottom: 3rem;
-	padding: 5rem 0 4rem;
+	padding: 5rem 0 3rem;
 	@media (max-width: $break-small) {
 		background-position: 10% center;
 	}
@@ -201,7 +201,7 @@ header h1{
 }
 .logo {
 	display: block;
-	max-width: 10rem;
+	max-width: 12rem;
 }
 
 /* Layout
