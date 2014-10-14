@@ -85,10 +85,10 @@
                 <section class="tweet-machine center box-white">
                     <div class="tweet-machine-sentence">
                         <h1>Help us spread the word</h1>
-                        Instead of making&nbsp; 
+                        Instead of making&nbsp;
                         <div class="select">
                             <select class="pledge-object">
-                                <option value="foam animals">choose one</option>
+                                <option value="keychains">choose one</option>
                                 <option value="keychains">keychains</option>
                                 <option value="paperweights">paperweights</option>
                                 <option value="stressballs">stressballs</option>
@@ -109,7 +109,7 @@
                             </select>
                         </div>
                     </div>
-                    <a class="tweet-button button" target="_blank" href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fmarketersagainstwaste.com&text=I%20pledge%20not%20to%20make%20tchotchkes%20and%20instead%20I%20will%20save%20the%20environment.%20%40MarketersAW&tw_p=tweetbutton&url=http%3A%2F%2Fmarketersagainstwaste.com">Tweet</a>
+                    <a class="tweet-button button" target="_blank" href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fmarketersagainstwaste.com&text=I%20pledge%20not%20to%20make%20tchotchkes%20and%20instead%20I%20will%20save%20the%20environment.%20%40%MarketersAW&tw_p=tweetbutton&url=http%3A%2F%2Fmarketersagainstwaste.com">Tweet</a>
                 </section><a id="pledge">
                 <section class="box-white center">
                     <h1>Download the badges</h1>
