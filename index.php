@@ -28,7 +28,7 @@
                 </section>
                 <section>
                     <h1><span>How We Can Change</span></h1>
-                    <p>Most promotional products are made using cheap plastics or other non-biodegradable material that is inexpensive to produce. In addition &mdash; let&#8217;s be honest here &mdash; many of these items are really kind of unnecessary and not very useful. When we make a low-quality item that no one actually needs, it is more likely to get thrown away. Here&#8217;s what I propose:</p>
+                    <p>Most promotional products are made using cheap plastics or other non-biodegradable material that is inexpensive to produce. In addition &mdash; let&#8217;s be honest here &mdash; many of these items are really kind of unnecessary and not very useful. When we make a low-quality item that no one actually needs, it is more likely to get thrown away. Here&#8217;s what we propose:</p>
                     <ol><li><p>1. Let&#8217;s stop feeling like we &quot;have to&quot; make promotional items and think about alternatives &mdash; maybe we could offer consumable goods or services instead?</li></p>
                     <li><p>2. If we really need to make something, let&#8217;s look for products that can be recycled and or that are biodegradable.</li></p>
                     <li><p>3. Let&#8217;s try to only make high-quality items that people will actually use, and let&#8217;s make fewer of them.</li></p>
@@ -37,7 +37,7 @@
                 <section>
                     <h1><span>Join the Movement</span></h1>
                     <p>Marketers Against Waste is a completely unofficial organization whose sole purpose is to bring awareness to this trash issue. You can sign our lightweight and completely non-binding pledge as an individual or as a representative of your company, and you can choose to have your company&#8217;s logo included on this website&hellip; or not. It&#8217;s completely up to you.</p> 
-                    <p>We&#8217;re providing a nifty badge you can put on your website or display at your tradeshow booth to show that you also support making sustainable promotional item choices.</a>Together, we can reduce waste and lessen the impact that our businesses have on the planet!</p> 
+                    <p>We&#8217;re providing a nifty badge you can put on your website or display at your tradeshow booth to show that you also support making sustainable promotional item choices.</a> Together, we can reduce waste and lessen the impact that our businesses have on the planet!</p> 
                 </section></a>
             </div>
             <div class="container-wide">
@@ -85,21 +85,22 @@
                 <section class="tweet-machine center box-white">
                     <div class="tweet-machine-sentence">
                         <h1>Help us spread the word</h1>
-                        I pledge not to make&nbsp; 
+                        As a Marketer, I promise to think about our planet before I create&nbsp; 
                         <div class="select">
                             <select class="pledge-object">
-                                <option value="tchotchkes">choose one</option>
-                                <option value="keychains">keychains</option>
-                                <option value="paperweights">paperweights</option>
-                                <option value="stressballs">stressballs</option>
-                                <option value="paddle ball sets">paddle ball sets</option>
-                                <option value="action figures">action figures</option>
+                                <option value="promotional items.">choose one</option>
+                                <option value="keychains">keychains.</option>
+                                <option value="paperweights">paperweights.</option>
+                                <option value="stressballs">stressballs.</option>
+                                <option value="paddle ball sets">paddle ball sets.</option>
+                                <option value="action figures">action figures.</option>
                             </select>
                         </div>
-                        &nbsp;and instead I will&nbsp;
+                        &nbsp;Instead I will&nbsp;
                         <div class="select">
                             <select class="pledge-action">
                                 <option value="tell people about marketersagainstwaste.com">choose one</option>
+                                <option value="tell people about marketersagainstwaste.com">tell people about marketersagainstwaste.com</option>
                                 <option value="hug a dog">hug a dog</option>
                                 <option value="high five a stranger">give away high fives</option>
                                 <option value="make something useful">make something useful</option>
@@ -108,7 +109,7 @@
                             </select>
                         </div>
                     </div>
-                    <a class="tweet-button button" target="_blank" href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fmarketersagainstwaste.com&text=I%20pledge%20not%20to%20make%20tchotchkes%20and%20instead%20I%20will%20save%20the%20environment.%20%40marketersaw&tw_p=tweetbutton&url=http%3A%2F%2Fmarketersagainstwaste.com">Tweet</a>
+                    <a class="tweet-button button" target="_blank" href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fmarketersagainstwaste.com&text=I%20pledge%20not%20to%20make%20tchotchkes%20and%20instead%20I%20will%20save%20the%20environment.%20%40MarketersAW&tw_p=tweetbutton&url=http%3A%2F%2Fmarketersagainstwaste.com">Tweet</a>
                 </section><a id="pledge">
                 <section class="box-white center">
                     <h1>Download the badges</h1>
