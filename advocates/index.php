@@ -1,4 +1,4 @@
-<?php include "header.php" ?>
+<?php include ('/header.php'); ?>
         <div class="stripe-1">
             <div class="container-wide center">
                 <section>
@@ -8,4 +8,4 @@
                 </section>
             </div>
         </div>
-<?php include "footer.php" ?>
+<?php include ('/footer.php'); ?>
