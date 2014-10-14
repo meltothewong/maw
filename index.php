@@ -1,28 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Marketers Against Waste</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link type="text/css" rel="stylesheet" href="css/build/production.css"/>
-        <link rel="icon" type="image/x-icon" href="/favicon.ico"/>
-        <script src="//use.typekit.net/kzn2uwu.js"></script>
-        <script>try{Typekit.load();}catch(e){}</script>
-    </head>
-    <body>
-        <nav>
-            <div class="container-wide group">
-                <ul>
-                    <li><a href="#initiative">Initiative</a></li>
-                    <li><a href="#pledge">Pledge</a></li>
-                    <li><a href="#resources">Resources</a></li>
-                </ul>
-            </div>
-        </nav>
-        <header> <!--Header & Nav helps with SEO-->
-            <div class="container-wide">
-                    <img class="logo" src="/images/maw-logo.png">
-            </div>
-        </header>
+<?php include "header.php" ?>
         <div class="stripe-1">
             <div class="container">
                 <section>
@@ -57,20 +33,58 @@
                     <li><p>2. If we really need to make something, let&#8217;s look for products that can be recycled and or that are biodegradable.</li></p>
                     <li><p>3. Let&#8217;s try to only make high-quality items that people will actually use, and let&#8217;s make fewer of them.</li></p>
                     </ol>
-                </section><a id="initiative"></a>
+                </section><a id="pledge"></a>
                 <section>
                     <h1><span>Join the Movement</span></h1>
                     <p>Marketers Against Waste is a completely unofficial organization whose sole purpose is to bring awareness to this trash issue. You can sign our lightweight and completely non-binding pledge as an individual or as a representative of your company, and you can choose to have your company&#8217;s logo included on this website&hellip; or not. It&#8217;s completely up to you.</p> 
                     <p>We&#8217;re providing a nifty badge you can put on your website or display at your tradeshow booth to show that you also support making sustainable promotional item choices.</a>Together, we can reduce waste and lessen the impact that our businesses have on the planet!</p> 
-                </section><a id="pledge"></a>
+                </section></a>
             </div>
             <div class="container-wide">
                 <section>
                     <blockquote>&quot;As a Marketer, I promise to think about our planet before I create promotional items. I will try to limit the amount of trash my organization creates, and if I do need to produce branded marketing materials, I will look for products that are useful, sustainable and less likely to end up in a landfill.&quot;</blockquote>
                 </section>
+                <section>
+                    <div class="box container-wide">
+                                        <!-- Begin MailChimp Signup Form -->
+                        <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+                        <style type="text/css">
+                                /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+                                   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+                        </style>
+                        <div id="mc_embed_signup">
+                            <form action="//marketersagainstwaste.us3.list-manage.com/subscribe/post?u=fb654dd1f74a2834e466de8fd&amp;id=09fa6171fb" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                                <h1 class="center">Sign the Pledge</h1>
+                                <div id="mc_embed_signup_scroll">
+                                    <div class="mc-field-group">
+                                        <label for="mce-EMAIL">Email Address</label>
+                                        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                                    </div>
+                                    <div class="mc-field-group">
+                                        <label for="mce-FNAME">First Name</label>
+                                        <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+                                    </div>
+                                    <div class="mc-field-group">
+                                        <label for="mce-LNAME">Last Name</label>
+                                        <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+                                    </div>
+                                    <div id="mce-responses" class="clear">
+                                        <div class="response" id="mce-error-response" style="display:none"></div>
+                                        <div class="response" id="mce-success-response" style="display:none"></div>
+                                    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                    <div style="position: absolute; left: -5000px;"><input type="text" name="b_fb654dd1f74a2834e466de8fd_09fa6171fb" tabindex="-1" value=""></div>
+                                    <div class="clear"><input type="submit" value="Sign" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                                </div>
+                            </form>
+                        </div>
+                            <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);
+                            </script>
+                            <!--End mc_embed_signup-->
+                    </div>
+                </section>
                 <section class="tweet-machine center box">
                     <div class="tweet-machine-sentence">
-                        <h1>Make your pledge</h1>
+                        <h1>Help us spread the word</h1>
                         I pledge not to make&nbsp; 
                         <div class="select">
                             <select class="pledge-object">
@@ -94,30 +108,12 @@
                             </select>
                         </div>
                     </div>
-                    <a class="tweet-button button" target="_blank" href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fmarketersagainstwaste.com&text=I%20pledge%20not%20to%20make%20tchotchkes%20and%20instead%20I%20will%20save%20the%20environment.%20%40marketersaw&tw_p=tweetbutton&url=http%3A%2F%2Fmarketersagainstwaste.com">Tweet Your Pledge</a>
-                </section>
+                    <a class="tweet-button button" target="_blank" href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fmarketersagainstwaste.com&text=I%20pledge%20not%20to%20make%20tchotchkes%20and%20instead%20I%20will%20save%20the%20environment.%20%40marketersaw&tw_p=tweetbutton&url=http%3A%2F%2Fmarketersagainstwaste.com">Tweet</a>
+                </section><a id="pledge">
                 <section class="box center">
-                    <h1>Grab your pledge badge</h1>
-                    <a class="button" target="_blank" href="/images/maw-badges.zip">Download Your Badge</a>
+                    <h1>Download the badges</h1>
+                    <a class="button" target="_blank" href="/images/maw-badges.zip">Download</a>
                 </section>
             </div><a id="resources"></a>
         </div>
-        <footer>
-            <div class="container-wide group">
-                <p>Contact us for more information or to get your company's logo on the website at 
-                <a href="mailto:info@marketersagainstwaste.com?Subject=Marketers Against Waste Query%20" target="_blank">info@marketersagainstwaste.com</a></p>
-            </div>
-        </footer>
-        <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
-        <script src="/js/build/production.js"></script>
-        <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-        ga('create', 'UA-55636248-1', 'auto');
-        ga('send', 'pageview');
-        </script>
-    </body>
-</html>
+    <?php include "footer.php" ?>

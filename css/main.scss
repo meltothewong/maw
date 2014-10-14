@@ -95,7 +95,7 @@ h2 {
 	font-size: 2rem;
 	line-height: 1.7;
 	letter-spacing: 2px;
-	color: $color-grey-dark;
+	color: $color-green;
 	text-transform: uppercase;
 }
 p {
@@ -226,8 +226,8 @@ header h1{
     text-align: center;
 }
 .row {
-    margin-left: -3rem;
-    display: block;
+    margin: 3rem;
+    display: inline-block;
 }
 section {
 	margin-bottom: 3rem;
