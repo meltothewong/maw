@@ -4,7 +4,7 @@
                 <a href="mailto:info@marketersagainstwaste.com?Subject=Marketers%20Against%20Waste%20Query" target="_blank">info@marketersagainstwaste.com</a></p>
             </div>
         </footer>
-        <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
+        <script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
         <script src="/js/build/production.js"></script>
         <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

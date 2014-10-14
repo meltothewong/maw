@@ -3,7 +3,7 @@
     <head>
         <title>Marketers Against Waste</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link type="text/css" rel="stylesheet" href="css/build/production.css"/>
+        <link type="text/css" rel="stylesheet" href="/css/build/production.css"/>
         <link rel="icon" type="image/x-icon" href="/favicon.ico"/>
         <script src="//use.typekit.net/kzn2uwu.js"></script>
         <script>try{Typekit.load();}catch(e){}</script>
