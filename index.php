@@ -85,7 +85,7 @@
                 <section class="tweet-machine center box-white">
                     <div class="tweet-machine-sentence">
                         <h1>Help us spread the word</h1>
-                        I pledge not to make&nbsp; 
+                        I promise to think about our planet before I create promotional items. Instead of making&nbsp; 
                         <div class="select">
                             <select class="pledge-object">
                                 <option value="promotional items">choose one</option>
@@ -96,7 +96,7 @@
                                 <option value="action figures">action figures</option>
                             </select>
                         </div>
-                        &nbsp;and instead I will&nbsp;
+                        &nbsp;I will&nbsp;
                         <div class="select">
                             <select class="pledge-action">
                                 <option value="tell people about marketersagainstwaste.com">choose one</option>
