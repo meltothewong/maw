@@ -85,18 +85,18 @@
                 <section class="tweet-machine center box-white">
                     <div class="tweet-machine-sentence">
                         <h1>Help us spread the word</h1>
-                        As a Marketer, I promise to think about our planet before I create&nbsp; 
+                        I pledge not to make&nbsp; 
                         <div class="select">
                             <select class="pledge-object">
-                                <option value="promotional items.">choose one</option>
-                                <option value="keychains">keychains.</option>
-                                <option value="paperweights">paperweights.</option>
-                                <option value="stressballs">stressballs.</option>
-                                <option value="paddle ball sets">paddle ball sets.</option>
-                                <option value="action figures">action figures.</option>
+                                <option value="promotional items">choose one</option>
+                                <option value="keychains">keychains</option>
+                                <option value="paperweights">paperweights</option>
+                                <option value="stressballs">stressballs</option>
+                                <option value="paddle ball sets">paddle ball sets</option>
+                                <option value="action figures">action figures</option>
                             </select>
                         </div>
-                        &nbsp;Instead I will&nbsp;
+                        &nbsp;and instead I will&nbsp;
                         <div class="select">
                             <select class="pledge-action">
                                 <option value="tell people about marketersagainstwaste.com">choose one</option>
