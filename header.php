@@ -13,7 +13,7 @@
             <div class="container-wide group">
                 <ul>
                     <li><a href="/#pledge">Pledge</a></li>
-                    <li><a href="/resources">Badges</a></li>
+                    <li><a href="/resources" target="_blank">Badges</a></li>
                     <li><a href="/advocates">Advocates</a></li>
                 </ul>
             </div>
