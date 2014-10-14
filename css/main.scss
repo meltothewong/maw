@@ -245,6 +245,16 @@ body {
 	}
 }
 
+.box-white {
+	background-color: #fff;
+	padding: 2.2rem 1.6rem;
+	color: $color-grey;
+	font-size: 1.5rem;
+	h1 {
+		color: $color-grey;
+	}
+}
+
 // Forms
 // ----------------------------------------------------------------------------
 
@@ -254,7 +264,7 @@ body {
 .button {
 	display: inline-block;
 	background-color: $color-pink;
-	padding: 1rem;
+	padding: 1rem 3rem;
 	font-size: 1.2rem;
 	color: #fff;
 	border-radius: 0.25rem;

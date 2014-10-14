@@ -20,7 +20,7 @@
                 </section>
                 <section>
                     <h1><span>Three dirty little secrets</span></h1>
-                    <p>Here are three dirty little secrets that the tchotchke industry doesn&#8217;t want you to know:</p>
+                    <p>The three dirty little secrets about promotional products:</p>
                     <ol><li><p>1. Roughly 2/3 of the marketing materials you produce end up in a hotel trash can before your target customer even leaves the conference.</p></li> 
                     <li><p>2. People will not, in fact, buy your product because you gave them a branded flashlight keychain.</p></li>
                     <li><p>3. People are more likely to remember <a href="http://www.psychologytoday.com/files/attachments/2557/howellpcheliniyer2012the-preference-experiences-over-possessions.pdf" target="_blank">positive experiences</a> shared with other humans, rather than objects.</p></li>
@@ -82,7 +82,7 @@
                             <!--End mc_embed_signup-->
                     </div>
                 </section>
-                <section class="tweet-machine center box">
+                <section class="tweet-machine center box-white">
                     <div class="tweet-machine-sentence">
                         <h1>Help us spread the word</h1>
                         I pledge not to make&nbsp; 
@@ -110,7 +110,7 @@
                     </div>
                     <a class="tweet-button button" target="_blank" href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fmarketersagainstwaste.com&text=I%20pledge%20not%20to%20make%20tchotchkes%20and%20instead%20I%20will%20save%20the%20environment.%20%40marketersaw&tw_p=tweetbutton&url=http%3A%2F%2Fmarketersagainstwaste.com">Tweet</a>
                 </section><a id="pledge">
-                <section class="box center">
+                <section class="box-white center">
                     <h1>Download the badges</h1>
                     <a class="button" target="_blank" href="/images/maw-badges.zip">Download</a>
                 </section>
