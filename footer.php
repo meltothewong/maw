@@ -1,6 +1,6 @@
         <footer>
-            <div class="container-wide group">
-                <p>For more information, or to put your company's logo on the website, contact us at 
+            <div class="container-wide group center">
+                <p>Conceived by <a href="https://twitter.com/gretcurtis" target="_blank">@gretcurtis</a> at <a href="https://twitter.com/piston" target="_blank">@piston</a>. Designed by <a href="https://twitter.com/meltothewong" target="_blank">@meltothewong</a>. For more information, or to put your company's logo on the website, contact us at 
                 <a href="mailto:info@marketersagainstwaste.com?Subject=Marketers%20Against%20Waste%20Query" target="_blank">info@marketersagainstwaste.com</a></p>
             </div>
         </footer>
