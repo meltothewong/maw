@@ -99,7 +99,7 @@
                         &nbsp;I will&nbsp;
                         <div class="select">
                             <select class="pledge-action">
-                                <option value="keychains">choose one</option>
+                                <option value="tell people about marketersagainstwaste.com">choose one</option>
                                 <option value="tell people about marketersagainstwaste.com">tell people about marketersagainstwaste.com</option>
                                 <option value="hug a dog">hug a dog</option>
                                 <option value="high five a stranger">give away high fives</option>

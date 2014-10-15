@@ -7,7 +7,7 @@ function tweet_machine() {
 	sentence = 'I pledge not to make ' + object +  ' and instead I will ' + action + '.';
 	url = 'https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fmarketersagainstwaste.com&text=' +
 		   encodeURIComponent(sentence) + 
-		  '&tw_p=tweetbutton&url=http%3A%2F%2Fmarketersagainstwaste.com';
+		  '%20%40MarketersAW&tw_p=tweetbutton&url=http%3A%2F%2Fmarketersagainstwaste.com';
 
 	$('.tweet-button').attr('href', url);
 };
