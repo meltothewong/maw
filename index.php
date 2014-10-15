@@ -99,7 +99,7 @@
                         &nbsp;I will&nbsp;
                         <div class="select">
                             <select class="pledge-action">
-                                <option value="tell people about marketersagainstwaste.com">choose one</option>
+                                <option value="keychains">choose one</option>
                                 <option value="tell people about marketersagainstwaste.com">tell people about marketersagainstwaste.com</option>
                                 <option value="hug a dog">hug a dog</option>
                                 <option value="high five a stranger">give away high fives</option>
@@ -109,7 +109,7 @@
                             </select>
                         </div>
                     </div>
-                    <a class="tweet-button button" target="_blank" href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fmarketersagainstwaste.com&text=I%20pledge%20not%20to%20make%20tchotchkes%20and%20instead%20I%20will%20save%20the%20environment.%20%40%MarketersAW&tw_p=tweetbutton&url=http%3A%2F%2Fmarketersagainstwaste.com">Tweet</a>
+                    <a class="tweet-button button" target="_blank" href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fmarketersagainstwaste.com&text=I%20pledge%20not%20to%20make%20keychains%20and%20instead%20I%20will%20tell%20people%20about%20marketersagainstwaste.com.%20%40MarketersAW&tw_p=tweetbutton&url=http%3A%2F%2Fmarketersagainstwaste.com">Tweet</a>
                 </section><a id="pledge">
                 <section class="box-white center">
                     <h1>Download the badges</h1>
