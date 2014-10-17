@@ -7,6 +7,7 @@
                     <div class="row logo"><img src="/images/exaqueo-logo.png"></div>
                     <div class="row logo"><img src="/images/neon-logo.png"></div>
                     <div class="row logo"><img src="/images/puppet-labs-logo.png"></div>
+                    <div class="row logo"><img src="/images/trueventures-logo.png"></div>
                 </section>
             </div>
                 </section>
