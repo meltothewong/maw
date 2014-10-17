@@ -45,7 +45,7 @@
                     <blockquote>&quot;As a Marketer, I promise to think about our planet before I create promotional items. I will try to limit the amount of trash my organization creates, and if I do need to produce branded marketing materials, I will look for products that are useful, sustainable and less likely to end up in a landfill.&quot;</blockquote>
                 </section>
                 <section>
-                    <div class="box container-wide">
+                    <div class="box">
                                         <!-- Begin MailChimp Signup Form -->
                         <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
                         <style type="text/css">
@@ -113,6 +113,7 @@
                 </section><a id="pledge">
                 <section class="box-white center">
                     <h1>Download the badges</h1>
+                    <p>Get a Marketers Against Waste badge to put on your website</p>
                     <a class="button" target="_blank" href="/images/maw-badges.zip">Download</a>
                 </section>
             </div><a id="resources"></a>
