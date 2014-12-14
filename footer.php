@@ -1,7 +1,7 @@
         <footer>
             <div class="container-wide group center">
                 <p>Conceived by <a href="https://twitter.com/gretcurtis" target="_blank">@gretcurtis</a> at <a href="https://twitter.com/piston" target="_blank">@piston</a>. Designed by <a href="https://twitter.com/meltothewong" target="_blank">@meltothewong</a>. For more information, or to put your company's logo on the website, contact us at 
-                <a href="mailto:info@marketersagainstwaste.com?Subject=Marketers%20Against%20Waste%20Query" target="_blank">info@marketersagainstwaste.com</a></p>
+                <a href="mailto:marketersagainstwaste@gmail.com?Subject=Marketers%20Against%20Waste%20Query" target="_blank">marketersagainstwaste@gmail.com</a></p>
             </div>
         </footer>
         <script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
